@@ -1,4 +1,4 @@
-CHSBambusa2013-14
+CHS Bambusa Robotics Code 2013 - 2014
 =================
 
-The github for the Carlsbad High School robotics team.
+CHS 6226 Bambusa's Source code for the 2013 Robotics year
